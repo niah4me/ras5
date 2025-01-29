@@ -1,0 +1,40 @@
+background: linear-gradient(to bottom, #ff9966, #ffcc99, #ffe6cc);
+ /* Sunset gradient */
+
+font-family: sans-serif;
+
+ /* Dark text for contrast */
+
+}
+
+header {
+
+background-color:#ff6600; /* Darker orange for header */color: white;
+
+padding: 1em;
+
+text-align: center;
+
+}
+
+#game-area, #results {padding: 20px;
+
+border: 2px solid #cc6600;
+
+border-radius: 10px;
+
+background-color: rgba(255,255,255,0.8); /* Slightly transparent white box */margin: 20px;
+
+}
+
+button {
+
+background-color:#ffcc99;padding: 10px 20px;
+
+border: none;
+
+border-radius: 5px;
+
+cursor: pointer;
+
+}
